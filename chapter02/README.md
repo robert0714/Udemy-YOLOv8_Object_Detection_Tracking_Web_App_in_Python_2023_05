@@ -39,5 +39,5 @@ yolo task=detect mode=export model=yolov8n.pt  format=onnx
 ```
 
 ## Running YOLOv8 in Google Colab
-* https://colab.research.google.com/github/robert0714/Udemy-YOLOv8_Object_Detection_Tracking_Web_App_in_Python_2023/blob/main/chapter02/YOLOv8_Complete_Tutorial.ipynb
-* https://colab.research.google.com/github/robert0714/Udemy-YOLOv8_Object_Detection_Tracking_Web_App_in_Python_2023/blob/main/chapter02/YOLOv8_Complete_Tutorial_Final.ipynb
+* https://colab.research.google.com/github/robert0714/Udemy-YOLOv8_Object_Detection_Tracking_Web_App_in_Python_2023_05/blob/main/chapter02/YOLOv8_Complete_Tutorial.ipynb
+* https://colab.research.google.com/github/robert0714/Udemy-YOLOv8_Object_Detection_Tracking_Web_App_in_Python_2023_05/blob/main/chapter02/YOLOv8_Complete_Tutorial_Final.ipynb
