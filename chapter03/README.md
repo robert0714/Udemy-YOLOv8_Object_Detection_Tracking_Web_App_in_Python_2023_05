@@ -9,16 +9,27 @@
   * https://universe.roboflow.com/working-pfnxt/pothole-detection-project-bayaq/dataset/1#
 * The model best weights: model={HOME}/runs/detect/train/weights/best.pt
 * sample: https://drive.google.com/file/d/1iMitK9VCUWmBcZiiEPHK1d2pydALof6s
+  * colab cli:
+    ```python
+    !gdown "https://drive.google.com/uc?id=1iMitK9VCUWmBcZiiEPHK1d2pydALof6s&confirm=t" 
+    ```
 * Running YOLOv8 in Google Colab
   * https://colab.research.google.com/github/robert0714/Udemy-YOLOv8_Object_Detection_Tracking_Web_App_in_Python_2023_05/blob/main/chapter03/Potholes_Detection_Step_by_Step_Complete.ipynb
 ### Personal Protective Equipment Detection  
 * We can use public dataset annotated:
   * https://universe.roboflow.com/objet-detect-yolov5/eep_detection-u9bbd/dataset/1#
 * sample: 
-  1. https://drive.google.com/file/d/1crFwrpMF1OlaJ0ZCZjBNRo9llLEVR8VQ
-  2. https://drive.google.com/file/d/
-  3. https://drive.google.com/file/d/1cTIBNQ1R_7JAOURVv9cJ6P935ym_IkZ0
-  4. https://drive.google.com/file/d/1256pNK0nQnEDT6FRLQAraTRkOY7BSprq
+  * links
+    1. https://drive.google.com/file/d/1crFwrpMF1OlaJ0ZCZjBNRo9llLEVR8VQ
+    2. https://drive.google.com/file/d/${UUID}
+    3. https://drive.google.com/file/d/1cTIBNQ1R_7JAOURVv9cJ6P935ym_IkZ0
+    4. https://drive.google.com/file/d/1256pNK0nQnEDT6FRLQAraTRkOY7BSprq
+       ```python
+       !gdown "https://drive.google.com/uc?id=1crFwrpMF1OlaJ0ZCZjBNRo9llLEVR8VQ&confirm=t" 
+       !gdown "https://drive.google.com/uc?id=1cTIBNQ1R_7JAOURVv9cJ6P935ym_IkZ0&confirm=t" 
+       !gdown "https://drive.google.com/uc?id=1256pNK0nQnEDT6FRLQAraTRkOY7BSprq&confirm=t" 
+       ```
+  * colab cli:  
 * Running YOLOv8 in Google Colab
   * https://colab.research.google.com/github/robert0714/Udemy-YOLOv8_Object_Detection_Tracking_Web_App_in_Python_2023_05/blob/main/chapter03/PPE/PPE_Detection__Step_by_Step_Complete_Final.ipynb
 ### Pen and Book Detection
