@@ -1,4 +1,6 @@
-# Chapter4 YOLOv8 Object Tracking 
+# Chapter4 YOLOv8 Object Tracking
+* Deep Sort with PyTorch:    
+  https://github.com/ZQPei/deep_sort_pytorch
 ## How we can integrate Deepsort object tracking with YOLO
 * github: https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking
 * deepSORT File : https://drive.google.com/drive/folders/1kna8eWGrSfzaR6DtNJ8_GchGgPMv3VC8?usp=sharing
